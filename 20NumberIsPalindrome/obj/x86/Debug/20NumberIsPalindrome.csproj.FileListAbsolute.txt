@@ -1,0 +1,10 @@
+C:\Users\gu425d\AppData\Local\Temporary Projects\20NumberIsPalindrome\bin\Debug\20NumberIsPalindrome.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\20NumberIsPalindrome\bin\Debug\20NumberIsPalindrome.pdb
+C:\Users\gu425d\AppData\Local\Temporary Projects\20NumberIsPalindrome\obj\x86\Debug\20NumberIsPalindrome.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\20NumberIsPalindrome\obj\x86\Debug\20NumberIsPalindrome.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\20NumberIsPalindrome\20NumberIsPalindrome\obj\x86\Debug\20NumberIsPalindrome.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\20NumberIsPalindrome\20NumberIsPalindrome\obj\x86\Debug\20NumberIsPalindrome.pdb
+C:\Users\GARRET\Documents\GitHub\20NumberIsPalindrome\20NumberIsPalindrome\obj\x86\Debug\20NumberIsPalindrome.exe
+C:\Users\GARRET\Documents\GitHub\20NumberIsPalindrome\20NumberIsPalindrome\obj\x86\Debug\20NumberIsPalindrome.pdb
+C:\Users\GARRET\Documents\GitHub\20NumberIsPalindrome\20NumberIsPalindrome\bin\Debug\20NumberIsPalindrome.exe
+C:\Users\GARRET\Documents\GitHub\20NumberIsPalindrome\20NumberIsPalindrome\bin\Debug\20NumberIsPalindrome.pdb
